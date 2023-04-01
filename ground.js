@@ -1,7 +1,7 @@
 import { getCustomProperty, incrementCustomProperty, setCustomerProperty } from "./updateCustProperty.js"
 
 
-const SPEED = .05
+const SPEED = .005
 const groundElems = document.querySelectorAll("[data-ground]")
 
 
